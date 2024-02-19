@@ -28,30 +28,30 @@ const background = [
         expCards: [
             {
                 id: 1,
-                title: 'JMM Technologies',
-                role: 'Frontend Developer',
-                url: 'https://jmm.ltd/',
-                desc: 'As a frontend developer, I use React, Next & JavaScript to build user interfaces for web applications.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                title: 'Cognizant',
+                role: 'Associate, Frontend developer',
+                url: 'https://www.cognizant.com/in/en',
+                desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!',
+                year: '04/2022 - 06/2023',
+                location: 'Chennai, India'
             },
             {
                 id: 2,
-                title: 'HauzaTech',
-                role: 'Internee',
-                url: 'no website',
-                desc: 'As an Internee, I learned how to use React & JavaScript to build interactive websites.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                title: 'Cognizant',
+                role: 'Program Analyst',
+                url: 'https://www.cognizant.com/in/en',
+                desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!',
+                year: '07/2020 - 04/2022',
+                location: 'Chennai, India'
             },
             {
                 id: 3,
-                title: 'Encoder Bytes',
-                role: 'PHP Developer',
-                url: 'https://www.encoderbytes.com/',
-                desc: "I work there as a PHP developer, there I learned how to do CRUD'S operations in PHP, also I worked on Firebase",
-                year: '09/2020 - 02/2021',
-                location: 'Peshawar, Pakistan'
+                title: 'Program Analyst',
+                role: 'Program Analyst Trainee',
+                url: 'https://www.cognizant.com/in/en',
+                desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!',
+                year: '07/2019 - 06/2020',
+                location: 'Chennai, India'
             },
 
         ]
