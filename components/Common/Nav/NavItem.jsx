@@ -9,7 +9,7 @@ const NavItem = ({ NavIcon, NavText, NavRoute, setIsOpen, setNavbarText }) => {
 
     return (
         <Link
-            onClick={(e) => {setNavbarText(NavRoute === '/' ? 'Home' :NavRoute);setIsOpen(false)}}
+            onClick={(e) => {setNavbarText(NavRoute === '/' ? 'Home' : NavRoute.split(' ')[1]);setIsOpen(false)}}
             href={NavRoute}
             className={`${className} transition flex items-center px-2 hover:bg-EveningBlack text-SilverGray hover:text-SilverGray rounded-xl  py-1.5 font-semibold space-x-4 text-base`}
         >
