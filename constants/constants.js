@@ -1,11 +1,11 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Surya Purushothaman';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `MBA Student | Engineer | Web developer`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  Residence: 'India',
+  City: 'Bangalore',
+  Age: '26',
 };
 
 export const SKILLS = [
@@ -17,13 +17,9 @@ export const SKILLS = [
     title: 'React Developer',
     level: '91%',
   },
-  // {
-  //   title: 'Desktop Application Developer',
-  //   level: '75%',
-  // },
   {
-    title: 'Backend Developer',
-    level: '54%',
+    title: 'NextJS Developer',
+    level: '95%',
   },
   {
     title: 'Technical Blogger',
@@ -56,12 +52,12 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'suryasp9977@gmail.com',
+  PHONE: '+91 9840360250',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/surya3010',
+  LINKEDIN: 'https://www.linkedin.com/in/surya-purushothaman/',
+  TWITTER: 'https://twitter.com/',
+  FACEBOOK: 'https://www.facebook.com/',
 };
