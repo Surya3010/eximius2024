@@ -7,6 +7,7 @@ import { useState } from 'react';
 export default function Layout({ children }) {
   const [isOpen, setIsOpen] = useState(false);
   const [intro, setIntro] = useState(false);
+  const [navbarText, setNavbarText] = useState('Home');
 
   return (
     <div className={`h-screen lg:p-[0.8rem] flex flex-col select-none font-circular`}>
@@ -52,10 +53,10 @@ export default function Layout({ children }) {
             </span>
           </div>
           <span className='absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 rotate-90 flex items-center justify-center text-center text-xl text-gray-600 font-extrabold tracking-widest'>
-            NavBar
+            {navbarText}
           </span>
         </div>
-        {<Nav isOpen={isOpen} setIsOpen={setIsOpen} />}
+        {<Nav isOpen={isOpen} setIsOpen={setIsOpen} setNavbarText={setNavbarText} />}
       </div>
     </div>
   );
