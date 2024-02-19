@@ -20,15 +20,15 @@ const Contact = () => {
                         <div className="card_stylings w-full md:w-1/2 p-5 md:p-6 lg:p-8 flex flex-col gap-y-4">
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Country:</span>
-                                <span className='text-LightGray md:text-sm'>Pakistan</span>
+                                <span className='text-LightGray md:text-sm'>India</span>
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>City:</span>
-                                <span className='text-LightGray md:text-sm'>Peshawar</span>
+                                <span className='text-LightGray md:text-sm'>Bangalore</span>
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Company:</span>
-                                <span className='text-LightGray md:text-sm'>CodeWorthy</span>
+                                <span className='text-LightGray md:text-sm'>Cognizant</span>
                             </div>
                         </div>
                         <div className="card_stylings rounded-xl w-full md:w-1/2 p-5 md:p-6 lg:p-8 flex flex-col gap-y-4">
@@ -42,7 +42,7 @@ const Contact = () => {
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Phone:</span>
-                                <span className='text-LightGray text-sm'>+92 (315) 9591822</span>
+                                <span className='text-LightGray text-sm'>+91 9840360250</span>
                             </div>
                         </div>
                     </div>
