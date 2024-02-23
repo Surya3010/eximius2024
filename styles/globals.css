@@ -10,6 +10,28 @@ body {
     overflow: hidden;
     height: 100vh;
 }
+/* NAVBAR-Start */
+.nav_items {
+  @apply cursor-pointer select-none duration-200 ease-in-out;
+}
+.close1 {
+  transform: translateY(7.5px) rotate(45deg);
+}
+.close2 {
+  transform: translateY(-7.5px) rotate(315deg);
+}
+.open {
+  transform: rotate(0deg);
+}
+@media (max-width: 1024px) {
+  .nav-open {
+    transform: translateY(-100vh);
+  }
+  .nav-close {
+    transform: translateY(0%);
+  }
+}
+/* NAVBAR-End */
 
 @layer utilities {
   @layer components {

@@ -6,7 +6,7 @@ import ClientReviews from '../components/HomeComponents/ClientReviews/ClientRevi
 const home = () => {
     return (
         <div className="Home-Page -z-10">
-            <Banner />
+            {/* <Banner /> */}
             <MyExpertise />
             <Recommendations />
             <ClientReviews />
