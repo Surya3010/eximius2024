@@ -28,9 +28,9 @@ export default function LandingPage() {
   const particlesInit = useCallback(async (engine) => {
     await loadSlim(engine);
   }, []);
-  const particlesLoaded = useCallback(async (container) => {}, []);
+  const particlesLoaded = useCallback(async (container) => { }, []);
 
-  const particleOption1={
+  const particleOption1 = {
     particles: {
       number: {
         value: 80,
@@ -252,7 +252,7 @@ export default function LandingPage() {
   }
   return (
     <Container section="home">
-                  <Particles
+      <Particles
         id="tsparticles"
         init={particlesInit}
         loaded={particlesLoaded}

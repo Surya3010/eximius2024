@@ -14,8 +14,6 @@ export default function Details() {
       <div className="flex-1 text-[30px] font-extralight leading-none lg:text-right">
       <div className="text-[30px] text-center">IIM Bangalore</div>
         <div>
-          <RedText>
-          </RedText>
         </div>
       </div>
     </article>

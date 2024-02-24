@@ -8,10 +8,10 @@ const home = () => {
     return (
         <div className="Home-Page -z-10">
             <LandingPage />
-            <MyExpertise />
+            {/* <MyExpertise />
             <Recommendations />
             <ClientReviews />
-            <Footer />
+            <Footer /> */}
 
         </div>
     )
