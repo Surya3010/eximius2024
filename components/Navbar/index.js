@@ -20,7 +20,7 @@ export default function Navbar({ home = true }) {
               height={24}
               width={165}
               loading="eager"
-              alt="TEDx GEC RIT logo, Kottayam"
+              alt="EXIMIUS, IIMB"
             />
           </Link>
         </span>
