@@ -72,6 +72,9 @@ body {
 .theme_text {
   position: relative;
 }
+.pos-relative {
+  position: relative;
+}
 .theme_text::before {
   content: "our theme";
   text-transform: lowercase;
