@@ -33,6 +33,7 @@ module.exports = {
       },
       backgroundImage: {
         yep: "url('/images/yep.png')",
+        eligibility: "url('/images/eligibility.png')",
         sabareesh: "url('/team/sabareesh_narayanan.webp')",
         coming_soon: "url('/backgrounds/coming-soon.webp')",
         swirls: "url('/backgrounds/swirls.webp')",

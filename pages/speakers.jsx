@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useRef, useEffect } from "react";
-import cardsScrollLogic from "./cardsScrollLogic";
+import cardsScrollLogic from "../components/Speakers/cardsScrollLogic";
 import {
   hrScrollIntoView,
   SplitText,
@@ -10,13 +10,13 @@ import {
   scrollPrevious,
   LeftArrow,
   RightArrow,
-} from "./Support";
+} from "../components/Speakers/Support";
 
-import cardBg from "../../public/backgrounds/speaker-card-bg.webp";
-import Heading from "../utility/Heading";
-import { Speaker_data } from "../../data/SpeakersData";
+import cardBg from "../public/backgrounds/speaker-card-bg.webp";
+import Heading from "../components/utility/Heading";
+import { Speaker_data } from "../data/SpeakersData";
 
-export default function Speaker() {
+export default function Speakers() {
   let currCardIndex = useRef(0);
   const leftScroll = useRef(null),
     cardsScrollElm = useRef(null),
