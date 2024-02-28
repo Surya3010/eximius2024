@@ -1,3 +1,4 @@
+// import { useState } from 'react';
 import Navbar from '../components/Navbar';
 import ParticlesBackground from '../components/particlesBackground';
 
@@ -5,7 +6,7 @@ export default function Layout({ children }) {
 
   return (
     // <div className={`h-screen lg:p-[0.8rem] flex flex-col select-none font-circular`}>
-    <div className={`h-screen flex flex-col select-none font-circular`}>
+    <div className={`h-screen bg-theme flex flex-col select-none font-circular`}>
         {/* top of screen */}
         <Navbar />
       <div className='flex relative h-full justify-between gap-x-3'>

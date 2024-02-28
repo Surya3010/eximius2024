@@ -172,7 +172,7 @@ export default function ParticlesBackground() {
       line_linked: {
         enable: true,
         distance: 160.3412060865523,
-        color: "#5f0000",
+        color: "#704B00",
         opacity: 2,
         width: 2
       },

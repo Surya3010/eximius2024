@@ -5,6 +5,8 @@ import { useState } from "react";
 import Hamburger from "./Hamburger";
 import Links, { HomeLink } from "./navlinks";
 import Link from "next/link";
+import EximiusLogo from '../../public/images/Eximius-logo.png'
+
 
 export default function Navbar({ home = true }) {
   const [close, setClose] = useState(false);
@@ -16,9 +18,9 @@ export default function Navbar({ home = true }) {
         <span>
           <Link href="/">
             <Image
-              src="/logos/logo-small.webp"
+              src={EximiusLogo}
               height={24}
-              width={165}
+              width={85}
               loading="eager"
               alt="EXIMIUS, IIMB"
             />
@@ -30,6 +32,7 @@ export default function Navbar({ home = true }) {
         <ul className="hidden gap-12 lg:flex">
           {home ? <Links /> : <HomeLink />}
         </ul>
+        <div class="hidden lg:block"><button class="pointer-events-none w-[165px] select-none rounded-[3px] bg-grey font-semibold text-white "><a class="flex h-full w-full justify-center px-4 py-2 lg:py-1" target="_blank" href="https://yepdesk.com/tedxgecrit">Register Now</a></button></div>
       </div>
       {/* MOBILE NAV */}
       <div

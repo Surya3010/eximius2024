@@ -8,7 +8,7 @@ export default function Details() {
         EXIM<RedText>IUS</RedText>
       </div>
       <div className="text-shape flex-1 select-none text-center font-extralight leading-none">
-        <div className="text-[80px]">09</div>
+        <div className="text-[80px]">6-7</div>
         <div className="text-[30px]">JUL '24</div>
       </div>
       <div className="flex-1 text-[30px] font-extralight leading-none lg:text-right">

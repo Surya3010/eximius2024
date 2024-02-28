@@ -4,6 +4,8 @@ import { useState } from "react";
 import Container from "../utility/Container";
 import Graphics from "./Graphics";
 import Details from "./Details";
+import AboutTheme from '../About/AboutTheme'
+import LandingEventsInfo from "../Events/LandingEventsInfo";
 
 const debounce = (func, delay) => {
   let timer;
@@ -31,6 +33,9 @@ export default function LandingPage() {
         onMouseMove={handleMouseMove}
       >
         <Details />
+        <a href="#" class="btn btn-lg">Register Now</a>
+        <AboutTheme />
+        <LandingEventsInfo/>
         <Graphics pos={pos} />
       </div>
     </Container>
