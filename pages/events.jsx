@@ -10,7 +10,7 @@ const Events = () => {
       <div className="w-full grid  justify-items-center grid-flow-col gap-4 px-2 md:px-8 pt-2 pb-4">
 
         <CardLayout>
-          <div className="flex flex-col justify-between h-full">
+          <div className="flex flex-col justify-between h-full hover:transition-all hover:scale-[1.2] ease-linear">
             <a className="flex  flex-col justify-between items-center" href="#Competitions">
               <img src='images/competitions_icon.png' width='200px' />
               <span className="text-[20px]">Competitions</span>
@@ -18,7 +18,7 @@ const Events = () => {
           </div>
         </CardLayout>
         <CardLayout>
-          <div className="flex flex-col justify-between h-full">
+          <div className="flex flex-col justify-between h-full hover:transition-all hover:scale-[1.2] ease-linear">
             <a className="flex flex-col justify-between items-center" href="#Workshops">
               <img src='images/workshops_icon.png' width='200px' />
               <span className="text-[20px]">Workshops</span>
@@ -27,7 +27,7 @@ const Events = () => {
           </div>
         </CardLayout>
         <CardLayout>
-          <div className="flex flex-col justify-between h-full">
+          <div className="flex flex-col justify-between h-full hover:transition-all hover:scale-[1.2] ease-linear">
             <a className="flex flex-col justify-between items-center" href="#Speaker Sessions">
               <img src='images/speaker_session.png' width='200px' />
               <span className="text-[20px]">Speaker Sessions</span>
@@ -35,7 +35,7 @@ const Events = () => {
           </div>
         </CardLayout>
         <CardLayout>
-          <div className="flex flex-col justify-between h-full">
+          <div className="flex flex-col justify-between h-full hover:transition-all hover:scale-[1.2] ease-linear">
             <div className="flex flex-col justify-between items-center">
               <img src='images/campus_ambassador.png' width='200px' />
               <span className="text-[20px]">Campus Ambassador</span>
