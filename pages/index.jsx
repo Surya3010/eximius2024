@@ -1,10 +1,10 @@
 import LandingPage from '../components/LandingPage';
-// import ClientReviews from '../components/HomeComponents/ClientReviews/ClientReviews';
+import PastSpeakers from '../components/HomeComponents/PastSpeakers';
 const home = () => {
     return (
         <div className="Home-Page -z-10">
             <LandingPage />
-            {/* <ClientReviews /> */}
+            <PastSpeakers />
         </div>
     )
 }

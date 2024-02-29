@@ -6,6 +6,7 @@ import Graphics from "./Graphics";
 import Details from "./Details";
 import AboutTheme from '../About/AboutTheme'
 import LandingEventsInfo from "../Events/LandingEventsInfo";
+import VideoPlayer from "../videoPlayer/videoPlayer";
 
 const debounce = (func, delay) => {
   let timer;
@@ -35,7 +36,8 @@ export default function LandingPage() {
         <Details />
         <a href="#" class="btn btn-lg">Register Now</a>
         <AboutTheme />
-        <LandingEventsInfo/>
+        <VideoPlayer />
+        <LandingEventsInfo />
         <Graphics pos={pos} />
       </div>
     </Container>

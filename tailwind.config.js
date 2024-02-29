@@ -33,6 +33,13 @@ module.exports = {
       },
       backgroundImage: {
         yep: "url('/images/yep.png')",
+        competitionsIcon: "url('/images/competitions_icon.png')",
+        speakersIcon: "url('/images/speakers_icon.png')",
+        participantsIcon: "url('/images/participants_icon.png')",
+        ankurWarikoo: "url('/images/past_speakers/ankur_warikoo.png')",
+        ganeshPrasad: "url('/images/past_speakers/ganesh_prasad.png')",
+        varunMayya: "url('/images/past_speakers/varun_mayya.png')",
+        workshopsIcon: "url('/images/workshops_icon.png')",
         eligibility: "url('/images/eligibility.png')",
         sabareesh: "url('/team/sabareesh_narayanan.webp')",
         coming_soon: "url('/backgrounds/coming-soon.webp')",
