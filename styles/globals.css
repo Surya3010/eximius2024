@@ -16,6 +16,7 @@ html {
 :root {
   --clr-red: #da0400;
   --clr-redText: #fa0400;
+  --clr-theme: #116464;
 }
 
 body {
@@ -23,7 +24,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: black;
-  color: white;
+  color: #c4beb9;
   overflow-x: hidden;
 }
 
@@ -36,7 +37,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: var(--clr-red);
+  background-color: var(--clr-theme);
   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
   border-radius: 4px;
 }
@@ -45,7 +46,7 @@ body {
 ::-moz-selection,
 ::-webkit-selection,
 ::-ms-selection {
-  background-color: var(--clr-red);
+  background-color: var(--clr-theme);
   color: white;
 }
 
@@ -98,8 +99,9 @@ body {
 }
 
 .text-shape::after {
-  @apply absolute left-0 top-0 z-[-1] h-[85%] w-1/2 translate-x-1/2 transform rounded-[2px] bg-red;
+  @apply absolute left-0 top-0 z-[-1] h-[85%] w-1/2 translate-x-1/2 transform rounded-[2px] ;
   content: "";
+  background: #116464;
 }
 
 @media (max-width: 1024px) {
@@ -141,7 +143,7 @@ body {
   height: 85%;
   border-radius: 2px;
   z-index: -1;
-  background: var(--clr-red);
+  background: var(--clr-theme);
 }
 
 /* SPONSOR POPUP MODULE */
@@ -162,7 +164,7 @@ body {
   position: absolute;
   top: 0;
   z-index: -10;
-  border: 2px solid var(--clr-red);
+  border: 2px solid var(--clr-theme);
   border-radius: 5px;
   height: 100%;
   width: 100%;
@@ -187,7 +189,7 @@ body {
   z-index: 10;
   height: 80px;
   width: 80px;
-  background: var(--clr-red);
+  background: var(--clr-theme);
   background: url("/talks-thumbnails/play.webp");
   border-radius: 50%;
   top: 50%;
@@ -357,7 +359,7 @@ body {
 .btn {
   color: #fff;
   border: none;
-  background-color: #e62b1e;
+  background-color: #116464;
 }
 
 .btn-lg {
@@ -385,10 +387,14 @@ body {
 .btn-dark:focus,
 .btn-dark:active {
   color: #fff;
-  background-color: #e26961;
+  background-color: #4bafaf;
 }
 
-.bg-theme {
+/* .bg-theme {
   background-color: #002244;
   background-image: linear-gradient(315deg, #002244 0%, #191714 74%);
+} */
+.text-highlight{
+  color: #116464;
+  font-weight: 700;
 }

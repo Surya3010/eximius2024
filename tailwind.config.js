@@ -18,9 +18,9 @@ module.exports = {
         SilverGray: "#B3B3B3",
         Snow: "#ffffff",
         red: "#DA0400",
-        redText: "#FA0400",
+        redText: "#116464",
         deepGrey: "#1B1B1B",
-        grey: "#585858",
+        grey: "#585858"
       },
       fontFamily: {
         'cascadia-normal': ['cascadia-normal'],
