@@ -43,11 +43,11 @@ const Events = () => {
           </div>
         </CardLayout>
       </div>
-      <h1 className="text-[32px] mt-4" id='Competitions'>Competitions</h1>
+      <h1 style={{ fontSize: '28px', margin: '50px 0px 25px', textTransform: 'uppercase' }} id='Competitions'>Competitions</h1>
       <Competitions />
-      <h1 className="text-[32px] mt-4" id='Workshops'>Workshops</h1>
+      <h1 style={{ fontSize: '28px', margin: '50px 0px 25px', textTransform: 'uppercase' }} id='Workshops'>Workshops</h1>
       <Competitions />
-      <h1 className="text-[32px] mt-4" id='Speaker Sessions'>Speaker Sessions</h1>
+      <h1 style={{ fontSize: '28px', margin: '50px 0px 25px', textTransform: 'uppercase' }} id='Speaker Sessions'>Speaker Sessions</h1>
       <Competitions />
     </Container>
   );

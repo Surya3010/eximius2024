@@ -16,7 +16,7 @@ const PastSpeakers = () => {
     return (
         <>
             <div className="px-2 md:px-8 py-4 text-[32px] font-bold">Past Speakers</div>
-            <div className="overflow-x-auto w-full grid  justify-items-center grid-flow-col gap-4 px-2 md:px-8 pt-2 pb-4">
+            <div className="overflow-x-auto w-full grid  justify-items-center grid-flow-col px-2 md:px-8 pt-2 pb-4">
 
                 {
                     isLoading ?

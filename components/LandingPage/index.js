@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Container from "../utility/Container";
-import Graphics from "./Graphics";
+// import Graphics from "./Graphics";
 import Details from "./Details";
 import AboutTheme from '../About/AboutTheme'
 import LandingEventsInfo from "../Events/LandingEventsInfo";
@@ -38,7 +38,7 @@ export default function LandingPage() {
         <AboutTheme />
         <VideoPlayer />
         <LandingEventsInfo />
-        <Graphics pos={pos} />
+        {/* <Graphics pos={pos} /> */}
       </div>
     </Container>
   );
