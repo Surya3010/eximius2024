@@ -7,7 +7,7 @@ const Events = () => {
   return (
     <Container>
       <Heading>Events 2024</Heading>
-      <div className="w-full grid  justify-items-center grid-flow-col gap-4 px-2 md:px-8 pt-2 pb-4">
+      <div className="grid  justify-items-center grid-cols-1 md:grid-cols-4 gap-4 px-2 md:px-8 pt-2 pb-4">
 
         <CardLayout>
           <div className="flex flex-col justify-between h-full hover:transition-all hover:scale-[1.2] ease-linear">

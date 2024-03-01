@@ -20,7 +20,7 @@ export default function Navbar({ home = true }) {
             <Image
               src={EximiusLogo}
               height={24}
-              width={85}
+              width={125}
               loading="eager"
               alt="EXIMIUS, IIMB"
             />
