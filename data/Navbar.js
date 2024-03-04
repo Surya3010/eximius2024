@@ -8,5 +8,5 @@ export const NavLinks = [
   { text: "Merchandise", link: "/merchandise" },
   // { text: "Gallery", link: "/gallery" },
   // { text: "Sponsors", link: "/meet-us" },
-  { text: "Contact", link: "/contact" },
+  // { text: "Contact", link: "/contact" },
 ];
