@@ -7,9 +7,9 @@ const SpeakerCard = ({ data }) => {
         <CardLayout>
             <div className="flex flex-col justify-between w-80 md:w-96 h-full">
                 <div className="flex justify-between items-center" style={{
-                    background: 'cadetblue',
-                    borderRadius: '50px',
-                    width: '300px'
+                    background: 'rgba(95, 158, 160, 0.3)',
+                    borderRadius: '250px',
+                    width: '320px'
                 }}>
                     <img src={`${data}`} />
                 </div>

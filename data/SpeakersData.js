@@ -1,4 +1,13 @@
 import aw from "../public/images/past_speakers/ankur_warikoo.png";
+import aj from "../public/images/past_speakers/aniketh_jain.png";
+import am from "../public/images/past_speakers/arjun_manjumdar.png";
+import bb from "../public/images/past_speakers/brij_bhushan.png";
+import gp from "../public/images/past_speakers/ganesh_prasad.png";
+import kb from "../public/images/past_speakers/kiran_bedi.png";
+import ns from "../public/images/past_speakers/nandita_sharma.png";
+import vm from "../public/images/past_speakers/varun_mayya.png";
+import vs from "../public/images/past_speakers/vetri_subramanian.png";
+
 // import ar from "../public/speakers/anaswara_ramesh.webp";
 // import aa from "../public/speakers/anoop_ambika.webp";
 // import an from "../public/speakers/adhila_noora.webp";
@@ -19,28 +28,43 @@ export const Speaker_data = [
     aw
   ),
   new Speaker(
-    "Ankur Warikoo",
+    "Aniketh Jain",
     " Ankur Warikoo is a multifaceted go-getter with his fingers in various pies. He's built a name for himself as an internet entrepreneur, author, and educator. Warikoo co-founded nearbuy, a successful Indian e-commerce platform. He also invests in startups, offering guidance and mentorship to budding entrepreneurs. As an author, his books, like 'Do Epic Shit', explore personal and professional growth. He further shares his insights through online courses and his popular YouTube channel, garnering millions of views with his candid and thought-provoking discussions on career, finance, and self-awareness. Through his various endeavors, Warikoo aims to empower individuals to make informed decisions and achieve their full potential.",
-    aw
+    aj
   ),
   new Speaker(
-    "Ankur Warikoo",
+    "Arjun Manjumdar",
     " Ankur Warikoo is a multifaceted go-getter with his fingers in various pies. He's built a name for himself as an internet entrepreneur, author, and educator. Warikoo co-founded nearbuy, a successful Indian e-commerce platform. He also invests in startups, offering guidance and mentorship to budding entrepreneurs. As an author, his books, like 'Do Epic Shit', explore personal and professional growth. He further shares his insights through online courses and his popular YouTube channel, garnering millions of views with his candid and thought-provoking discussions on career, finance, and self-awareness. Through his various endeavors, Warikoo aims to empower individuals to make informed decisions and achieve their full potential.",
-    aw
+    am
   ),
   new Speaker(
-    "Ankur Warikoo",
+    "Brij Bhushan",
     " Ankur Warikoo is a multifaceted go-getter with his fingers in various pies. He's built a name for himself as an internet entrepreneur, author, and educator. Warikoo co-founded nearbuy, a successful Indian e-commerce platform. He also invests in startups, offering guidance and mentorship to budding entrepreneurs. As an author, his books, like 'Do Epic Shit', explore personal and professional growth. He further shares his insights through online courses and his popular YouTube channel, garnering millions of views with his candid and thought-provoking discussions on career, finance, and self-awareness. Through his various endeavors, Warikoo aims to empower individuals to make informed decisions and achieve their full potential.",
-    aw
+    bb
   ),
   new Speaker(
-    "Ankur Warikoo",
+    "Ganesh Prasad",
     " Ankur Warikoo is a multifaceted go-getter with his fingers in various pies. He's built a name for himself as an internet entrepreneur, author, and educator. Warikoo co-founded nearbuy, a successful Indian e-commerce platform. He also invests in startups, offering guidance and mentorship to budding entrepreneurs. As an author, his books, like 'Do Epic Shit', explore personal and professional growth. He further shares his insights through online courses and his popular YouTube channel, garnering millions of views with his candid and thought-provoking discussions on career, finance, and self-awareness. Through his various endeavors, Warikoo aims to empower individuals to make informed decisions and achieve their full potential.",
-    aw
+    gp
   ),
   new Speaker(
-    "Ankur Warikoo",
+    "Kiran Bedi",
     " Ankur Warikoo is a multifaceted go-getter with his fingers in various pies. He's built a name for himself as an internet entrepreneur, author, and educator. Warikoo co-founded nearbuy, a successful Indian e-commerce platform. He also invests in startups, offering guidance and mentorship to budding entrepreneurs. As an author, his books, like 'Do Epic Shit', explore personal and professional growth. He further shares his insights through online courses and his popular YouTube channel, garnering millions of views with his candid and thought-provoking discussions on career, finance, and self-awareness. Through his various endeavors, Warikoo aims to empower individuals to make informed decisions and achieve their full potential.",
-    aw
+    kb
+  ),
+  new Speaker(
+    "Nandita Sharma",
+    " Ankur Warikoo is a multifaceted go-getter with his fingers in various pies. He's built a name for himself as an internet entrepreneur, author, and educator. Warikoo co-founded nearbuy, a successful Indian e-commerce platform. He also invests in startups, offering guidance and mentorship to budding entrepreneurs. As an author, his books, like 'Do Epic Shit', explore personal and professional growth. He further shares his insights through online courses and his popular YouTube channel, garnering millions of views with his candid and thought-provoking discussions on career, finance, and self-awareness. Through his various endeavors, Warikoo aims to empower individuals to make informed decisions and achieve their full potential.",
+    ns
+  ),
+  new Speaker(
+    "Varun Mayya",
+    " Ankur Warikoo is a multifaceted go-getter with his fingers in various pies. He's built a name for himself as an internet entrepreneur, author, and educator. Warikoo co-founded nearbuy, a successful Indian e-commerce platform. He also invests in startups, offering guidance and mentorship to budding entrepreneurs. As an author, his books, like 'Do Epic Shit', explore personal and professional growth. He further shares his insights through online courses and his popular YouTube channel, garnering millions of views with his candid and thought-provoking discussions on career, finance, and self-awareness. Through his various endeavors, Warikoo aims to empower individuals to make informed decisions and achieve their full potential.",
+    vm
+  ),
+  new Speaker(
+    "Vetri Subramanian",
+    " Ankur Warikoo is a multifaceted go-getter with his fingers in various pies. He's built a name for himself as an internet entrepreneur, author, and educator. Warikoo co-founded nearbuy, a successful Indian e-commerce platform. He also invests in startups, offering guidance and mentorship to budding entrepreneurs. As an author, his books, like 'Do Epic Shit', explore personal and professional growth. He further shares his insights through online courses and his popular YouTube channel, garnering millions of views with his candid and thought-provoking discussions on career, finance, and self-awareness. Through his various endeavors, Warikoo aims to empower individuals to make informed decisions and achieve their full potential.",
+    vs
   )
 ];

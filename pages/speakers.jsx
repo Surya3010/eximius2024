@@ -12,7 +12,7 @@ import {
   RightArrow,
 } from "../components/Speakers/Support";
 
-import cardBg from "../public/backgrounds/speaker-card-bg.webp";
+import cardBg from "../public/backgrounds/speaker-card-bg.jpeg";
 import Heading from "../components/utility/Heading";
 import { Speaker_data } from "../data/SpeakersData";
 
