@@ -1,5 +1,7 @@
 import CardLayout from "../components/Common/CardLayout";
 import Competitions from "../components/Events/competitions";
+import SpeakerSessions from "../components/Events/speaker_sessions";
+import Workshops from "../components/Events/workshops";
 import Container from "../components/utility/Container";
 import Heading from "../components/utility/Heading";
 
@@ -46,9 +48,9 @@ const Events = () => {
       <h1 style={{ fontSize: '28px', margin: '50px 0px 25px', textTransform: 'uppercase' }} id='Competitions'>Competitions</h1>
       <Competitions />
       <h1 style={{ fontSize: '28px', margin: '50px 0px 25px', textTransform: 'uppercase' }} id='Workshops'>Workshops</h1>
-      <Competitions />
+      <Workshops />
       <h1 style={{ fontSize: '28px', margin: '50px 0px 25px', textTransform: 'uppercase' }} id='Speaker Sessions'>Speaker Sessions</h1>
-      <Competitions />
+      <SpeakerSessions />
     </Container>
   );
 };
