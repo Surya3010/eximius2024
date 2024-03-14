@@ -8,28 +8,28 @@ const workshops = [
     },
     {
         id: 0,
-        image: "images/workshops/Workshop-2.png",
+        image: "images/workshops/Workshop-2.webp",
         url: "#",
         title: "Navudyog",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
-        image: "images/workshops/Workshop-3.png",
+        image: "images/workshops/Workshop-3.webp",
         url: "#",
         title: "Navudyog",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
-        image: "images/workshops/Workshop-5.png",
+        image: "images/workshops/Workshop-5.webp",
         url: "#",
         title: "Navudyog",
         subtitle: 'Travel Plan Competition'
     },
      {
         id: 0,
-        image: "images/workshops/Workshop-6.png",
+        image: "images/workshops/Workshop-6.webp",
         url: "#",
         title: "Navudyog",
         subtitle: 'Travel Plan Competition'
