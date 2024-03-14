@@ -187,7 +187,7 @@ const competitions = [
         url: "#",
         title: "Navudyog",
         subtitle: 'Travel Plan Competition'
-    },
+    }
     
 ]
 export default function handler(req, res) {
