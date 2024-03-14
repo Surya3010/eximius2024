@@ -33,7 +33,7 @@ const workshops = [
         url: "#",
         title: "Navudyog",
         subtitle: 'Travel Plan Competition'
-    },
+    }
 ]
 export default function handler(req, res) {
     res.status(200).json(workshops)
