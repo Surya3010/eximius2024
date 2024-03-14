@@ -1,7 +1,7 @@
 const workshops = [
     {
         id: 0,
-        image: "images/workshops/Workshop-1.png",
+        image: "images/workshops/Workshop-1.webp",
         url: "#",
         title: "Navudyog",
         subtitle: 'Travel Plan Competition'
