@@ -17,140 +17,133 @@ const competitions = [
         id: 0,
         image: "images/competitions/Art-of-Elevator-Pitch.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Art of Elevator Pitch",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/Canvas-Creative-Commerce-2.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Canvas Creative Commerce",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/Case-a-blanca.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Case-a-Blanca",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/Cater-vantage-2.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Cater Vantage",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/Ecostrategists.webp",
         url: "#",
-        title: "Navudyog",
-        subtitle: 'Travel Plan Competition'
-    },
-    {
-        id: 0,
-        image: "images/competitions/Ecostrategists.webp",
-        url: "#",
-        title: "Navudyog",
+        title: "Eco Strategists",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/ENI-Bzzwings-Danton.webp",
         url: "#",
-        title: "Navudyog",
+        title: "BzzWings",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/ENI-Pitcher-Perfect-Danton.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Pitcher Perfect",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/Havoc-Mash.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Havoc Mash",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/ICON-Foresight-Danton.webp",
         url: "#",
-        title: "Navudyog",
+        title: "ForeSight",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/Insight-Intersection.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Insight Intersection",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/IPO-Q.webp",
         url: "#",
-        title: "Navudyog",
+        title: "IPO-Q",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/IQ-Devils-advocate.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Devil's Advocate",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/Laugh-Tank.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Laugh Tank",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/Marketing-Moguls-Mash.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Marketing Moguls",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/Momentum-Masters.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Momentum Masters",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/NSRCEL-Ideathon-Logo.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Ideathon",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/Opsimius.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Opsimius",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/Power-of-Her.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Power of Her",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/PPC-Vyaparneeti-Danton.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Vyaparneeti",
         subtitle: 'Travel Plan Competition'
     },
     {
