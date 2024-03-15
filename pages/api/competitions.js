@@ -45,7 +45,7 @@ const competitions = [
         id: 0,
         image: "images/competitions/Ecostrategists.webp",
         url: "#",
-        title: "Eco Strategists",
+        title: "Ecostrategists",
         subtitle: 'Travel Plan Competition'
     },
     {
