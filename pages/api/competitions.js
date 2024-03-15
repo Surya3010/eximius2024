@@ -1,11 +1,11 @@
 const competitions = [
-    {
+  /* {
         id: 0,
         image: "images/competitions/Anveshan-Navudyog.png",
         url: "#",
         title: "Navudyog",
         subtitle: 'Travel Plan Competition'
-    },
+    },*/
     {
         id: 0,
         image: "images/competitions/Anveshan-Navudyog-2.webp",
@@ -150,35 +150,35 @@ const competitions = [
         id: 0,
         image: "images/competitions/Quizathlon.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Quizathlon",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/Retailiation.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Retailiation",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/Sigma-Techminator-Danton.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Techminator",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/Snap-and-Solve.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Snap and Solve",
         subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/competitions/Social-Pact-done.webp",
         url: "#",
-        title: "Navudyog",
+        title: "Social Pact",
         subtitle: 'Travel Plan Competition'
     }
     
