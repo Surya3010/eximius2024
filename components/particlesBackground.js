@@ -237,7 +237,7 @@ export default function ParticlesBackground() {
         id="tsparticles"
         init={particlesInit}
         loaded={particlesLoaded}
-        options={particleOption2}
+        options={particleOption1}
       />
   );
 }

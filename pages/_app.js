@@ -1,3 +1,4 @@
+import Footer from '../components/Footer'
 import '../styles/globals.css'
 
 import Layout from './layout'
@@ -10,6 +11,7 @@ export default function App({ Component, pageProps }) {
     <QueryClientProvider client={queryClient}>
       <Layout>
         <Component {...pageProps} />
+        <Footer />
       </Layout>
     </QueryClientProvider>
   )

@@ -33,6 +33,7 @@ module.exports = {
       },
       backgroundImage: {
         yep: "url('/images/yep.png')",
+        yep_banner: "url('/images/yep_banner.png')",
         competitionsIcon: "url('/images/competitions_icon.png')",
         speakersIcon: "url('/images/speakers_icon.png')",
         participantsIcon: "url('/images/participants_icon.png')",

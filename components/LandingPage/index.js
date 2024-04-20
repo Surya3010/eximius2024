@@ -7,6 +7,7 @@ import Details from "./Details";
 import AboutTheme from '../About/AboutTheme'
 import LandingEventsInfo from "../Events/LandingEventsInfo";
 import VideoPlayer from "../videoPlayer/videoPlayer";
+import PastSpeakers from "../HomeComponents/PastSpeakers";
 
 const debounce = (func, delay) => {
   let timer;
@@ -38,7 +39,7 @@ export default function LandingPage() {
         <AboutTheme />
         <VideoPlayer />
         <LandingEventsInfo />
-        {/* <Graphics pos={pos} /> */}
+        {/* <PastSpeakers/> */}
       </div>
     </Container>
   );
