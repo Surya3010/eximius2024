@@ -82,7 +82,9 @@ export default function Speakers() {
       className="my-8 w-full overflow-x-hidden px-20 pl-[150px] pr-0 pt-[80px] max-md:p-10 max-sm:p-0 lg:pr-0"
       id="speakers"
     >
-      <Heading>Speakers</Heading>
+      <Heading>Speakers’24</Heading>
+      <div className="h-[150px] w-full bg-yep bg-tobe_announced bg-custom md:w-[260px] lg:bg-cover lg:bg-left" style={{ margin: '0 auto' }}></div>
+      <Heading>Speakers’23</Heading>
       {/* Speaker cards start here */}
       <div
         className="flex h-[600px] w-full flex-[0_0_auto] max-md:h-[auto] max-md:flex-col-reverse"

@@ -36,6 +36,7 @@ module.exports = {
         yep_banner: "url('/images/yep_banner.png')",
         competitionsIcon: "url('/images/competitions_icon.png')",
         speakersIcon: "url('/images/speakers_icon.png')",
+        tobe_announced: "url('/images/tobe_announced.webp')",
         participantsIcon: "url('/images/participants_icon.png')",
         ankurWarikoo: "url('/images/past_speakers/ankur_warikoo.png')",
         ganeshPrasad: "url('/images/past_speakers/ganesh_prasad.png')",

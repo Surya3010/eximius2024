@@ -3,22 +3,22 @@ const speakerSessions = [
         id: 0,
         image: "images/speaker_sessions/1.webp",
         url: "#",
-        title: "Navudyog",
-        subtitle: 'Travel Plan Competition'
+        title: "Ankur Warikoo",
+        // subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/speaker_sessions/2.webp",
         url: "#",
-        title: "Navudyog",
-        subtitle: 'Travel Plan Competition'
+        title: "curtain Raiser",
+        // subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
         image: "images/speaker_sessions/3.webp",
         url: "#",
-        title: "Navudyog",
-        subtitle: 'Travel Plan Competition'
+        title: "Varun Mayya",
+        // subtitle: 'Travel Plan Competition'
     }
 ]
 export default function handler(req, res) {

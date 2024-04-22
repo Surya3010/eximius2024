@@ -9,7 +9,7 @@ const EventsCard = ({ data }) => {
                     src={data?.image}
                     alt="portfolio img"
                     className="w-full object-cover"
-                style={{ width: '350px', height: '350px',borderRadius:'20px' }}
+                style={{ width: '300px', height: '300px',borderRadius:'20px' }}
                 />
                 <div id="arrow" className="py-2 px-6 card_stylings hover:-translate-y-3 transition-all ease-in-out duration-500">
                     <div className="flex justify-center p-0 m-0">
