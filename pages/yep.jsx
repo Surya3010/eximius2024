@@ -138,10 +138,10 @@ const Yep = () => {
     // </div>
     //     </Container>
     <Container>
-      <div style={{ display: 'flex', alignItems: 'center', flexWrap: 'wrap' }}>
-        <div className="h-[100px] w-full bg-yep bg-cover bg-custom md:w-[125px] lg:bg-cover lg:bg-left" style={{ borderRadius: '35px', marginRight: '25px' }}></div><h1 className="ml-[25px] select-none text-5xl font-[200] uppercase max-sm:py-5 md:ml-[50px] lg:ml-0 lg:text-[48px]">Young Entrepreneur Program</h1>
+      <div style={{ display: 'flex', alignItems: 'center', flexWrap: 'wrap', justifyContent: 'center' }}>
+        <div className="h-[100px] w-[100px] bg-yep bg-cover bg-custom lg:bg-cover lg:bg-left" style={{ borderRadius: '24px', marginRight: '25px' }}></div><h1 className="ml-[25px] select-none text-5xl font-[200] uppercase max-sm:py-5 md:ml-[50px] lg:ml-0 lg:text-[48px]">Young Entrepreneur Program</h1>
       </div>
-      <div className="h-[100px] w-full bg-yep_banner bg-cover bg-custom md:h-[325px] lg:bg-cover lg:bg-left" style={{ borderRadius: '16px', margin: '32px 0px' }} />
+      <div className="h-[120px] bg-yep_banner bg-cover bg-custom md:h-[325px] lg:bg-cover lg:bg-left" style={{ borderRadius: '8px', margin: '32px 10px' }} />
 
       <div className="yep_content">
         <p><strong>Schedule of Young Entrepreneur Program (YEP) 2024:</strong></p>
@@ -149,15 +149,15 @@ const Yep = () => {
         <p>Eximius, in collaboration with the N S Raghavan Centre for Entrepreneurial Learning (<strong>NSRCEL</strong>) at IIM Bangalore, proudly presents the <strong>Young Entrepreneur Program (YEP) 2024</strong>. YEP is an immersive experience meticulously crafted to empower aspiring entrepreneurs with the knowledge, skills, and resources essential to thrive in today's fiercely competitive business environment.</p>
         <p>Join us at YEP 2024 and embark on a transformative journey towards entrepreneurial success!</p>
         <br />
-        <div style={{ display: 'flex', justifyContent: 'space-evenly' }}>
-          <div style={{ outline: '1px solid white', padding: '16px', borderRadius: '16px' }}>
+        <div style={{ display: 'flex', justifyContent: 'space-evenly', flexWrap:'wrap' }}>
+          <div style={{ outline: '1px solid white', padding: '16px', borderRadius: '16px', margin: '24px' }}>
             <p><strong>Preliminary Round:</strong></p>
             <ul>
               <li className="yep_listItem"> <VscDebugBreakpointDataUnverified size='24px' /><strong>Start Date:</strong> April 20th, 2024</li>
               <li className="yep_listItem"> <VscDebugBreakpointDataUnverified size='24px' /><strong>End Date:</strong> May 15th, 2024</li>
             </ul>
           </div>
-          <div style={{ outline: '1px solid white', padding: '16px', borderRadius: '16px' }}>
+          <div style={{ outline: '1px solid white', padding: '16px', borderRadius: '16px', margin: '24px' }}>
             <p><strong>Main Event:</strong></p>
             <ul>
               <li className="yep_listItem"> <VscDebugBreakpointDataUnverified size='24px' /><strong>Date:</strong> July 6th and 7th, 2024</li>

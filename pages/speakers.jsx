@@ -83,7 +83,7 @@ export default function Speakers() {
       id="speakers"
     >
       <Heading>Speakers’24</Heading>
-      <div className="h-[150px] w-full bg-yep bg-tobe_announced bg-custom md:w-[260px] lg:bg-cover lg:bg-left" style={{ margin: '0 auto' }}></div>
+      <div className="h-[150px] bg-announcement bg-cover bg-custom w-[260px] lg:bg-cover lg:bg-left" style={{ margin: '0 auto' }}></div>
       <Heading>Speakers’23</Heading>
       {/* Speaker cards start here */}
       <div
