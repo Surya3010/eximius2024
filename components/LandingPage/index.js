@@ -35,7 +35,7 @@ export default function LandingPage() {
         onMouseMove={handleMouseMove}
       >
         <Details />
-        <a href="#" class="btn btn-lg">Register Now</a>
+        <a target="_blank" href="https://unstop.com/college-fests/eximius-2024-iim-bangalores-entrepreneurship-summit-indian-institute-of-management-iim-bangalore-245251" class="btn btn-lg">Register Now</a>
         <AboutTheme />
         <VideoPlayer />
         <LandingEventsInfo />
