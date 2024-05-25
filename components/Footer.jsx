@@ -33,7 +33,7 @@ const Footer = () => {
                             <div>
                                 <h4 style={{ fontSize: '16px', fontWeight: '700', marginBottom: '20px' }}>Contact</h4>
                                 <p>
-                                    <strong>Phone:</strong> +91 9901374702<br />
+                                    <strong>Phone:</strong> +91 9022822617<br />
                                     <strong>Email:</strong> iimb.eximius@iimb.ac.in<br />
                                 </p>
                             </div>
