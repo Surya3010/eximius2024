@@ -10,7 +10,7 @@ const AboutTheme = () => {
           Eximius, IIM Bangalores’s Entrepreneurship and Innovation summit, is one of the most celebrated festivals hosted in the Indian B-school community. Eximius is an <RedText>expression for excellence</RedText>, a platform and opportunity for individuals to transcend the ordinary and ride on the waves of the emerging startup culture.
           <br /> 
           <br />
-          This year is the 16th edition of our annual summit Eximius 2023 – <RedText>Innovate to Disrupt.Disrupt to Sustain.</RedText>Last year was proof that Eximius is a success irrespective of the medium it’s taking place.When has anything prevented us from unleashing our minds ? We promise to bring a global startup experience to you.
+          This year is the 17th edition of our annual summit Eximius 2024 – <RedText>Innovate to Disrupt.Disrupt to Sustain.</RedText>Last year was proof that Eximius is a success irrespective of the medium it’s taking place.When has anything prevented us from unleashing our minds ? We promise to bring a global startup experience to you.
           Please join us in making this grander than ever before!
         </p>
       </article>
