@@ -14,14 +14,14 @@ export default function Details() {
       </div>
       <div className="flex-1 text-[30px] font-extralight leading-none lg:text-right">
         <div className="text-[30px] flex items-center justify-center">
-          {/* <Image
+          <Image
             src="/images/IIM_Bangalore_Logo.jpeg"
             height={24}
             width={80}
             loading="eager"
             alt="IIMB"
-          /> */}
-          IIM Bangalore</div>
+          />
+          </div>
         <div>
         </div>
       </div>
