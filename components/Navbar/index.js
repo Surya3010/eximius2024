@@ -17,6 +17,7 @@ export default function Navbar({ home = true }) {
       <div className="absolute left-0 top-0 z-50 flex h-[75px] w-full flex-row items-center justify-between px-6 lg:justify-around" style={{ background: 'black' }}>
         <span>
           <Link href="/">
+          <a href="https://eximius2024.netlify.app/">
             <Image
               src={EximiusLogo}
               height={65}
@@ -24,6 +25,7 @@ export default function Navbar({ home = true }) {
               loading="eager"
               alt="EXIMIUS, IIMB"
             />
+          </a>
           </Link>
         </span>
         <div className="lg:hidden" onClick={toggleClose}>
