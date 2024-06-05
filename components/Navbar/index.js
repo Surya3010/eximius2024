@@ -43,7 +43,7 @@ export default function Navbar({ home = true }) {
               height={65}
               width={65}
               loading="eager"
-              alt="NSRCEL,EXIMIUS, IIMB"
+              alt="EXIMIUS, IIMB"
             />
           </a>
         </span>
