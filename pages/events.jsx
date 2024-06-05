@@ -31,7 +31,7 @@ const Events = () => {
         <CardLayout>
           <div className="flex flex-col justify-between h-full hover:transition-all hover:scale-[1.2] ease-linear">
             <a className="flex flex-col justify-between items-center" href="#Speaker Sessions">
-              <img src='images/speaker_session.png' width='150px' />
+              <img src='images/speakers_icon.png' width='150px' />
               <span className="text-[20px]" style={{ textAlign: 'center' }}>Speaker Sessions</span>
             </a>
           </div>
