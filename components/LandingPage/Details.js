@@ -2,11 +2,13 @@ import Link from "next/link";
 import Image from "next/image";
 import RedText from "../utility/RedText";
 import './globals.css';
-
+const myComponentStyle = {  
+  color: 'white' 
+}
 export default function Details() {
   return (
     <article className="mb-24 flex w-full -translate-y-[50px] flex-col items-center justify-center gap-24 text-center md:translate-y-0 lg:mb-32 lg:mt-[75px] lg:flex-row lg:gap-0 ">
-      <div className="flex-1 text-[60px] font-extralight leading-[90%] lg:text-left" style={{ color: 'white' }}>
+      <div className="flex-1 text-[60px] font-extralight leading-[90%] lg:text-left" style={myComponentStyle}>
         EXIMIUS
       </div>
       <div className="text-shape flex-1 select-none text-center font-extralight leading-none" style={{ background: '#C32630' }}>
