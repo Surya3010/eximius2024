@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import RedText from "../utility/RedText";
+import './globals.css';
 
 export default function Details() {
   return (
