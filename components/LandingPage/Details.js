@@ -17,7 +17,7 @@ export default function Details() {
           <Image
             src="/images/IIMB_NSRCEL.png"
             height={24}
-            width={80}
+            width={200}
             loading="eager"
             alt="IIMB,NSRCEL"
           />
