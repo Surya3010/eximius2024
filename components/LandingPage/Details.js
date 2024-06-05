@@ -10,8 +10,8 @@ export default function Details() {
         EXIMIUS
       </div>
       <div className="text-shape flex-1 select-none text-center font-extralight leading-none" style="background-color: #C32630;">
-        <div className="text-[80px]" style={{ background: 'white' }}>6-7</div>
-        <div className="text-[30px]" style={{ background: 'white' }}>JUL '24</div>
+        <div className="text-[80px]" style={{ color: 'white' }}>6-7</div>
+        <div className="text-[30px]" style={{ color: 'white' }}>JUL '24</div>
       </div>
       <div className="flex-1 text-[30px] font-extralight leading-none lg:text-right">
         <div className="text-[30px] flex items-center justify-center">
