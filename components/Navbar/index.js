@@ -26,15 +26,6 @@ export default function Navbar({ home = true }) {
               alt="EXIMIUS, IIMB"
             />
           </a>
-          <a href="https://nsrcel.org/">
-            <Image
-              src={NSRCELLogo}
-              height={65}
-              width={65}
-              loading="eager"
-              alt="NSRCEL,EXIMIUS,IIMB"
-            />
-          </a>
         </span>
         <div className="lg:hidden" onClick={toggleClose}>
           <Hamburger close={close} />
