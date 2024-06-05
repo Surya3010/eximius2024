@@ -15,11 +15,11 @@ export default function Details() {
       <div className="flex-1 text-[30px] font-extralight leading-none lg:text-right">
         <div className="text-[30px] flex items-center justify-center">
           <Image
-            src="/images/IIM_Bangalore_Logo.jpeg"
+            src="/images/IIMB_NSRCEL.png"
             height={24}
             width={80}
             loading="eager"
-            alt="IIMB"
+            alt="IIMB,NSRCEL"
           />
           </div>
         <div>
