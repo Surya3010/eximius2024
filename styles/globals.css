@@ -416,6 +416,10 @@ body {
   align-items: flex-start;
 }
 
+.text-color-white {
+  color: white;
+}
+
 .yep_content li {
   position: relative;
   list-style-type: none;
