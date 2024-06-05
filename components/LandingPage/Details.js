@@ -11,7 +11,7 @@ export default function Details() {
       <div className="flex-1 text-[60px] font-extralight leading-[90%] lg:text-left" style={myComponentStyle}>
         EXIMIUS
       </div>
-      <div className="text-shape flex-1 select-none text-center font-extralight leading-none" style={{ background: '#C32630' }}>
+      <div className="text-shape flex-1 select-none text-center font-extralight leading-none" style={{ backgroundColor: '#C32630' }}>
         <div className="text-[80px]" style={{ color: 'white' }}>6-7</div>
         <div className="text-[30px]" style={{ color: 'white' }}>JUL '24</div>
       </div>
