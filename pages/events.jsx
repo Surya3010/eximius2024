@@ -8,7 +8,7 @@ import Heading from "../components/utility/Heading";
 const Events = () => {
   return (
     <Container>
-      <Heading>Events’23</Heading>
+      <Heading>Events’24</Heading>
       <div className="grid  justify-items-center grid-cols-2 md:grid-cols-4 gap-4 px-2 md:px-8 pt-2 pb-4">
 
         <CardLayout>

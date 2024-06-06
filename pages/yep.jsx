@@ -6,7 +6,7 @@ const Yep = () => {
   return (
     <Container>
       <div style={{ display: 'flex', alignItems: 'center', flexWrap: 'wrap', justifyContent: 'center' }}>
-        <div className="h-[100px] w-[100px] bg-yep bg-cover bg-custom lg:bg-cover lg:bg-left" style={{ borderRadius: '24px', marginRight: '25px' }}></div><h1 className="ml-[25px] select-none text-5xl font-[200] uppercase max-sm:py-5 md:ml-[50px] lg:ml-0 lg:text-[48px]">Young Entrepreneur Program</h1>
+        <div className="h-[100px] w-[100px] bg-yep bg-cover bg-custom lg:bg-cover lg:bg-left" style={{ borderRadius: '24px', marginRight: '25px' }}></div><h1 className="ml-[25px] select-none text-5xl font-[200] uppercase max-sm:py-5 md:ml-[50px] lg:ml-0 lg:text-[48px]" style={{color: 'white'}}>Young Entrepreneur Program</h1>
       </div>
       <div className="h-[120px] bg-yep_banner bg-cover bg-custom md:h-[325px] lg:bg-cover lg:bg-left" style={{ borderRadius: '8px', margin: '32px 10px' }}/>
 
