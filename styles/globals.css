@@ -102,7 +102,7 @@ body {
 .text-shape::after {
   @apply absolute left-0 top-0 z-[-1] h-[85%] w-1/2 translate-x-1/2 transform rounded-[2px];
   content: "";
-  background: #116464;
+  background: #C32630;
 }
 
 @media (max-width: 1024px) {
@@ -360,7 +360,7 @@ body {
 .btn {
   color: #fff;
   border: none;
-  background-color: #116464;
+  background-color: #C32630;
 }
 
 .btn-lg {
@@ -388,7 +388,7 @@ body {
 .btn-dark:focus,
 .btn-dark:active {
   color: #fff;
-  background-color: #116464;
+  background-color: #C32630;
 }
 
 /* .bg-theme {
@@ -396,7 +396,7 @@ body {
   background-image: linear-gradient(315deg, #002244 0%, #191714 74%);
 } */
 .text-highlight {
-  color: #116464;
+  color: #C32630;
   font-weight: 700;
 }
 
