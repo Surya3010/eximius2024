@@ -2,9 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import RedText from "../utility/RedText";
 import './globals.css';
-const myComponentStyle = {  
-  color: 'white' 
-}
+
 export default function Details() {
   return (
     <article className="mb-24 flex w-full -translate-y-[50px] flex-col items-center justify-center gap-24 text-center md:translate-y-0 lg:mb-32 lg:mt-[75px] lg:flex-row lg:gap-0 ">
