@@ -82,9 +82,9 @@ export default function Speakers() {
       className="my-8 w-full overflow-x-hidden px-20 pl-[150px] pr-0 pt-[80px] max-md:p-10 max-sm:p-0 lg:pr-0"
       id="speakers"
     >
-      <Heading>Speakers’24</Heading>
+      <Heading><p style={{color: 'white'}}>Speakers’24</p></Heading>
       <div className="h-[150px] bg-announcement bg-cover bg-custom w-[260px] lg:bg-cover lg:bg-left" style={{ margin: '0 auto' }}></div>
-      <Heading>Speakers’23</Heading>
+      <Heading><p style={{color: 'white'}}>Speakers’23</p></Heading>
       {/* Speaker cards start here */}
       <div
         className="flex h-[600px] w-full flex-[0_0_auto] max-md:h-[auto] max-md:flex-col-reverse"
@@ -95,7 +95,7 @@ export default function Speakers() {
           {/* This element prevents scrolling */}
           <div className="absolute z-20 h-full w-full"></div>
           <div
-            className="scroll-snap-y scroll-snap-start hide-scrollbar details-container flex h-full w-full flex-col overflow-hidden "
+            className="scroll-snap-y scroll-snap-start hide-scrollbar details-container flex h-full w-full flex-col overflow-hidden " style={{color: 'white'}}
             ref={leftScroll}
           >
             {Speaker_data.map((speaker, index) => {

@@ -8,14 +8,14 @@ import Heading from "../components/utility/Heading";
 const Events = () => {
   return (
     <Container>
-      <Heading>Events’24</Heading>
+      <Heading><p style={{color: 'white'}}>Events’24</p></Heading>
       <div className="grid  justify-items-center grid-cols-2 md:grid-cols-4 gap-4 px-2 md:px-8 pt-2 pb-4">
 
         <CardLayout>
           <div className="flex flex-col justify-between h-full hover:transition-all hover:scale-[1.2] ease-linear">
             <a className="flex  flex-col justify-between items-center" href="#Competitions">
               <img src='images/competitions_icon.png' width='150px' />
-              <span className="text-[20px]" style={{ textAlign: 'center' }}>Competitions</span>
+              <span className="text-[20px]" style={{ textAlign: 'center' , color: 'white'}}>Competitions</span>
             </a>
           </div>
         </CardLayout>
@@ -23,7 +23,7 @@ const Events = () => {
           <div className="flex flex-col justify-between h-full hover:transition-all hover:scale-[1.2] ease-linear">
             <a className="flex flex-col justify-between items-center" href="#Workshops">
               <img src='images/workshops_icon.png' width='150px' />
-              <span className="text-[20px]" style={{ textAlign: 'center' }}>Workshops</span>
+              <span className="text-[20px]" style={{ textAlign: 'center', color: 'white'}}>Workshops</span>
 
             </a>
           </div>
@@ -32,7 +32,7 @@ const Events = () => {
           <div className="flex flex-col justify-between h-full hover:transition-all hover:scale-[1.2] ease-linear">
             <a className="flex flex-col justify-between items-center" href="#Speaker Sessions">
               <img src='images/speakers_icon.png' width='150px' />
-              <span className="text-[20px]" style={{ textAlign: 'center' }}>Speaker Sessions</span>
+              <span className="text-[20px]" style={{ textAlign: 'center', color: 'white' }}>Speaker Sessions</span>
             </a>
           </div>
         </CardLayout>
@@ -40,16 +40,16 @@ const Events = () => {
           <div className="flex flex-col justify-between h-full hover:transition-all hover:scale-[1.2] ease-linear">
             <div className="flex flex-col justify-between items-center">
               <img src='images/campus_ambassador.png' width='150px' />
-              <span className="text-[20px]" style={{ textAlign: 'center' }}>Campus Ambassador</span>
+              <span className="text-[20px]" style={{ textAlign: 'center', color: 'white' }}>Campus Ambassador</span>
             </div>
           </div>
         </CardLayout>
       </div>
-      <h1 style={{ fontSize: '28px', margin: '50px 0px 25px', textTransform: 'uppercase' }} id='Competitions'>Competitions</h1>
+      <h1 style={{ fontSize: '28px', margin: '50px 0px 25px', textTransform: 'uppercase', color: 'white' }} id='Competitions'>Competitions</h1>
       <Competitions />
-      <h1 style={{ fontSize: '28px', margin: '50px 0px 25px', textTransform: 'uppercase' }} id='Workshops'>Workshops</h1>
+      <h1 style={{ fontSize: '28px', margin: '50px 0px 25px', textTransform: 'uppercase', color: 'white' }} id='Workshops'>Workshops</h1>
       <Workshops />
-      <h1 style={{ fontSize: '28px', margin: '50px 0px 25px', textTransform: 'uppercase' }} id='Speaker Sessions'>Speaker Sessions</h1>
+      <h1 style={{ fontSize: '28px', margin: '50px 0px 25px', textTransform: 'uppercase', color: 'white' }} id='Speaker Sessions'>Speaker Sessions</h1>
       <SpeakerSessions />
     </Container>
   );
