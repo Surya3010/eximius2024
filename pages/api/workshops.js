@@ -1,7 +1,7 @@
 const workshops = [
     {
         id: 0,
-        image: "images/workshops/Eximius'24 Workshops_AceTheCase.png",
+        image: "images/workshops/Eximius'24 Workshops_AceTheCase.webp",
         url: "https://unstop.com/workshops-webinars/ace-the-case-eximius-2024-eximius-2024-iim-bangalores-entrepreneurship-summit-iim-bangalore-994853",
         title: "Ace the Case",
         // subtitle: 'Travel Plan Competition'
