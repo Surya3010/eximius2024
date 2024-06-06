@@ -10,7 +10,7 @@ const Yep = () => {
       </div>
       <div className="h-[120px] bg-yep_banner bg-cover bg-custom md:h-[325px] lg:bg-cover lg:bg-left" style={{ borderRadius: '8px', margin: '32px 10px' }}/>
 
-      <div className="yep_content">
+      <div className="yep_content" style={{color: 'white'}}>
         <p><strong>Schedule of Young Entrepreneur Program (YEP) 2024:</strong></p>
         <p><strong>Introduction:</strong></p>
         <p>Eximius, in collaboration with the N S Raghavan Centre for Entrepreneurial Learning (<strong>NSRCEL</strong>) at IIM Bangalore, proudly presents the <strong>Young Entrepreneur Program (YEP) 2024</strong>. YEP is an immersive experience meticulously crafted to empower aspiring entrepreneurs with the knowledge, skills, and resources essential to thrive in today's fiercely competitive business environment.</p>

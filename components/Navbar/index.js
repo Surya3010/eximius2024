@@ -14,7 +14,7 @@ export default function Navbar({ home = true }) {
   const toggleClose = () => setClose(!close);
 
   return (
-    <nav className="backdrop-saturate-180 border-b-1 sticky top-0 z-50 flex h-[75px] w-screen border-white border-opacity-100 bg-black/30 backdrop-blur-xl lg:px-9">
+    <nav className="backdrop-saturate-180 border-b-1 sticky top-0 z-50 flex h-[75px] w-screen border-white border-opacity-100 bg-black/30 backdrop-blur-xl lg:px-9 h-full hover:transition-all hover:scale-[1.2] ease-linear">
       <div className="absolute left-0 top-0 z-50 flex h-[75px] w-full flex-row items-center justify-between px-6 lg:justify-around" style={{ background: 'black' }}>
         <span>  
           <a href="https://eximius2024.netlify.app/">
