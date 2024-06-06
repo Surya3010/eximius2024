@@ -1,9 +1,9 @@
 const workshops = [
     {
         id: 0,
-        image: "images/workshops/Workshop-1.webp",
-        url: "#",
-        title: "How to Crack D2C",
+        image: "images/workshops/Eximius'24 Workshops_AceTheCase.png",
+        url: "https://unstop.com/workshops-webinars/ace-the-case-eximius-2024-eximius-2024-iim-bangalores-entrepreneurship-summit-iim-bangalore-994853",
+        title: "Ace the Case",
         // subtitle: 'Travel Plan Competition'
     },
     {
