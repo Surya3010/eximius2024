@@ -21,7 +21,7 @@ const Yep = () => {
             <p><strong>Preliminary Round:</strong></p>
             <ul>
               <li className="yep_listItem"> <VscDebugBreakpointDataUnverified size='24px' /><strong>Start Date:</strong> April 20th, 2024</li>
-              <li className="yep_listItem"> <VscDebugBreakpointDataUnverified size='24px' /><strong>End Date:</strong> May 15th, 2024</li>
+              <li className="yep_listItem"> <VscDebugBreakpointDataUnverified size='24px' /><strong>End Date:</strong> June 15th, 2024</li>
             </ul>
           </div>
           <div style={{ outline: '1px solid white', padding: '16px', borderRadius: '16px', margin: '24px' }}>
