@@ -1,6 +1,4 @@
 const competitions = [
- 
-
     {
         id: 0,
         image: "images/competitions/FII - Case-a-Blanca_2024.png",
@@ -73,21 +71,21 @@ const competitions = [
     },
     {
         id: 0,
-        image: "images/competitions/QUEst - InclusiVision Challenge_2024.webp",
+        image: "images/competitions/QUEst - InclusiVision Challenge_2024.png",
         url: "https://unstop.com/competitions/inclusivision-challenge-eximius-2024-iim-bangalores-entrepreneurship-summit-iim-bangalore-1009079",
         title: "InclusiVision Challenge",
         // subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
-        image: "images/competitions/MARS - Local Bazaar Chronicles_2024.webp",
+        image: "images/competitions/MARS - Local Bazaar Chronicles_2024.png",
         url: "https://unstop.com/competitions/local-bazaar-chronicles-innovating-traditional-commerce-eximius-2024-iim-bangalores-entrepreneurship-summit-996954",
         title: "Local Bazaar Chronicles",
         // subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
-        image: "images/competitions/MASH - Marketing Meisters Showdown_2024.webp",
+        image: "images/competitions/MASH - Marketing Meisters Showdown_2024.png",
         url: "https://unstop.com/competitions/marketing-meisters-showdown-eximius-2024-iim-bangalores-entrepreneurship-summit-iim-bangalore-1021360",
         title: "Marketing Meisters Showdown",
         // subtitle: 'Travel Plan Competition'
