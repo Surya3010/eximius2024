@@ -16,7 +16,7 @@ const competitions = [
     {
         id: 0,
         image: "images/competitions/ENI - Pitcher Perfect_2024.png",
-        url: "https://unstop.com/competitions/pitcher-perfect-s7-iimbs-version-of-shark-tank-eximius-2024-iim-bangalores-entrepreneurship-summit-iim-bang-1024538",
+        url: "https://unstop.com/p/pitcher-perfect-s7-iimbs-version-of-shark-tank-iim-bangalore-1024538?lb=z3lV7Wf&utm_medium=Share&utm_source=shortUrl",
         title: "Pitcher Perfect",
         // subtitle: 'Travel Plan Competition'
     },
@@ -58,7 +58,7 @@ const competitions = [
     {
         id: 0,
         image: "images/competitions/IQ_2024.png",
-        url: "https://unstop.com/events/devils-advocate-eximius-2024-iim-bangalores-entrepreneurship-summit-iim-bangalore-1024018",
+        url: "https://unstop.com/events/devils-advocate-eximius-2024-iim-bangalores-entrepreneurship-summit-iim-bangalore-1024018?lb=z3lV7Wf&utm_medium=Share&utm_source=shortUrl",
         title: "Devil's Advocate",
         // subtitle: 'Travel Plan Competition'
     },
@@ -79,7 +79,7 @@ const competitions = [
     {
         id: 0,
         image: "images/competitions/QUEst - InclusiVision Challenge_2024.png",
-        url: "https://unstop.com/competitions/inclusivision-challenge-eximius-2024-iim-bangalores-entrepreneurship-summit-iim-bangalore-1009079",
+        url: "https://unstop.com/o/Su8BHfm?lb=z3lV7Wf&utm_medium=Share&utm_source=shortUrl",
         title: "InclusiVision Challenge",
         // subtitle: 'Travel Plan Competition'
     },
@@ -128,10 +128,25 @@ const competitions = [
     {
         id: 0,
         image: "images/competitions/Vikasana_2024.png",
-        url: "https://unstop.com/competitions/social-pact-pitch-your-social-impact-idea-eximius-2024-iim-bangalores-entrepreneurship-summit-iim-bangalore-1022444",
+        url: "https://unstop.com/competitions/social-pact-pitch-your-social-impact-idea-eximius-2024-iim-bangalores-entrepreneurship-summit-iim-bangalore-1022444?lb=z3lV7Wf&utm_medium=Share&utm_source=shortUrl",
         title: "Social Pact",
         // subtitle: 'Travel Plan Competition'
-    }
+    },
+    {
+        id: 0,
+        image: "images/competitions/FOCAL_2024.png",
+        url: "https://unstop.com/p/art-of-elevator-pitch-eximius-2024-iim-bangalores-entrepreneurship-summit-iim-bangalore-1021218?lb=z3lV7Wf&utm_medium=Share&utm_source=shortUrl",
+        title: "Art of Elevator Pitch",
+        // subtitle: 'Travel Plan Competition'
+    },
+    {
+        id: 0,
+        image: "images/competitions/TAAL - The Dance Venture Challenge_2024.png",
+        url: "https://unstop.com/p/the-dance-venture-challenge-eximius-2024-iim-bangalores-entrepreneurship-summit-iim-bangalore-1021410?lb=z3lV7Wf&utm_medium=Share&utm_source=shortUrl",
+        title: "Dance Venture Challenge",
+        // subtitle: 'Travel Plan Competition'
+    },
+    
     
 ]
 export default function handler(req, res) {
