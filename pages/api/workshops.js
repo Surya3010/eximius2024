@@ -8,30 +8,16 @@ const workshops = [
     },
     {
         id: 0,
-        image: "images/workshops/Workshop-2.webp",
-        url: "#",
-        title: "Empowering Team Synergy and Collobrative Growth",
+        image: "images/workshops/Inspire Innvoation Nikunj Dang 2024.png",
+        url: "https://unstop.com/workshops-webinars/infinite-innovation-design-thinking-in-the-age-of-ai-ever-evolving-customers-eximius-2024-iim-bangalo-1034768",
+        title: "Inspire Innovation",
         // subtitle: 'Travel Plan Competition'
     },
     {
         id: 0,
-        image: "images/workshops/Workshop-3.webp",
-        url: "#",
-        title: "How to market a startup & scale to millions of impressions in a year",
-        // subtitle: 'Travel Plan Competition'
-    },
-    {
-        id: 0,
-        image: "images/workshops/Workshop-5.webp",
-        url: "#",
-        title: "AI masterclass in ChatGPT",
-        // subtitle: 'Travel Plan Competition'
-    },
-     {
-        id: 0,
-        image: "images/workshops/Workshop-6.webp",
-        url: "#",
-        title: "Challenges in Supplychain & Managing Money Control",
+        image: "images/workshops/BA and Analytics_SHAILJA MISHRA_2024.png",
+        url: "https://unstop.com/workshops-webinars/business-analytics-and-intelligence-with-power-bi-eximius-2024-iim-bangalores-entrepreneurship-summit-1034748",
+        title: "Business Analytics and Intelligence with Power BI",
         // subtitle: 'Travel Plan Competition'
     }
 ]
