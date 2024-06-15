@@ -22,7 +22,7 @@ const Competitions = () => {
                 ))}
 
 
-        </div><div class="scroll-indicator bounce"><img class="arrow fade" alt="" src="/static/media/downArrow2.4d553fb2575269da5e726f0285781327.svg" />
+        </div><div class="scroll-indicator bounce"><img class="arrow fade" alt="" src="https://shaastra.org/static/media/downArrow2.4d553fb2575269da5e726f0285781327.svg" />
             </div></>
     );
 };
