@@ -93,7 +93,7 @@ export default function Speakers() {
           className="ml-4 px-4 py-2 bg-blue-500 text-white rounded" style={{backgroundColor:'#C32630'}}
           onClick={handleButtonClick}
         >
-          Go to New Page
+          Guess the Speaker!!
         </button>
     </div>
       <div className="h-[150px] bg-announcement bg-cover bg-custom w-[260px] lg:bg-cover lg:bg-left" style={{ margin: '0 auto' }}></div>
