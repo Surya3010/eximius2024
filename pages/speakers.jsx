@@ -87,10 +87,10 @@ export default function Speakers() {
       className="my-8 w-full overflow-x-hidden px-20 pl-[150px] pr-0 pt-[80px] max-md:p-10 max-sm:p-0 lg:pr-0"
       id="speakers"
     >
-    <div className="flex items-center">
+    <div className="items-center">
       <Heading><p style={{color: 'white'}}>Speakers’24</p></Heading>
        <button
-          className="ml-4 px-4 py-2 bg-blue-500 text-white rounded"
+          className="ml-4 px-4 py-2 bg-blue-500 text-white rounded" style={{backgroundColor:'#C32630'}}
           onClick={handleButtonClick}
         >
           Go to New Page
