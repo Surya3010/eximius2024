@@ -146,6 +146,20 @@ const competitions = [
         title: "Dance Venture Challenge",
         // subtitle: 'Travel Plan Competition'
     },
+    {
+        id: 0,
+        image: "images/competitions/TAAL - The Dance Venture Challenge_2024.png",
+        url: "https://unstop.com/p/the-dance-venture-challenge-eximius-2024-iim-bangalores-entrepreneurship-summit-iim-bangalore-1021410?lb=z3lV7Wf&utm_medium=Share&utm_source=shortUrl",
+        title: "Ideathon",
+        // subtitle: 'Travel Plan Competition'
+    },
+    {
+        id: 0,
+        image: "images/competitions/TAAL - The Dance Venture Challenge_2024.png",
+        url: "https://unstop.com/p/the-dance-venture-challenge-eximius-2024-iim-bangalores-entrepreneurship-summit-iim-bangalore-1021410?lb=z3lV7Wf&utm_medium=Share&utm_source=shortUrl",
+        title: "Ecostrategist",
+        // subtitle: 'Travel Plan Competition'
+    },
     
     
 ]
