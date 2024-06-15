@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { useRef, useEffect } from "react";
+import { useRouter } from "next/router";
 import cardsScrollLogic from "../components/Speakers/cardsScrollLogic";
 import {
   hrScrollIntoView,
@@ -77,12 +78,24 @@ export default function Speakers() {
     // };
   }, []);
 
+  const handleButtonClick = () => {
+    router.push("/new-webpage");
+  };
+
   return (
     <section
       className="my-8 w-full overflow-x-hidden px-20 pl-[150px] pr-0 pt-[80px] max-md:p-10 max-sm:p-0 lg:pr-0"
       id="speakers"
     >
+    <div className="flex items-center">
       <Heading><p style={{color: 'white'}}>Speakers’24</p></Heading>
+       <button
+          className="ml-4 px-4 py-2 bg-blue-500 text-white rounded"
+          onClick={handleButtonClick}
+        >
+          Go to New Page
+        </button>
+    </div>
       <div className="h-[150px] bg-announcement bg-cover bg-custom w-[260px] lg:bg-cover lg:bg-left" style={{ margin: '0 auto' }}></div>
       <Heading><p style={{color: 'white'}}>Speakers’23</p></Heading>
       {/* Speaker cards start here */}
