@@ -5,9 +5,7 @@ import { VscDebugBreakpointDataUnverified } from "react-icons/vsc";
 const Yep = () => {
   return (
     <Container>
-      <div style={{ display: 'flex', alignItems: 'center', flexWrap: 'wrap', justifyContent: 'center' }}>
-        <div className="h-[100px] w-[100px] bg-yep bg-cover bg-custom lg:bg-cover lg:bg-left" style={{ borderRadius: '24px', marginRight: '25px' }}></div><h1 className="ml-[25px] select-none text-5xl font-[200] uppercase max-sm:py-5 md:ml-[50px] lg:ml-0 lg:text-[48px]" style={{color: 'white'}}>Young Entrepreneur Program</h1>
-      </div>
+        <h1 className="ml-[25px] select-none text-4xl font-[200] uppercase max-sm:py-5 md:ml-[50px] md:mt-[50px] lg:ml-0 lg:text-[48px]" style={{color: 'white'}}>Young Entrepreneur Program</h1>
       <img src="images/yep_banner.png" style={{ borderRadius: '8px', margin: '32px 0px' }}/>
       <div className="yep_content" style={{color: 'white'}}>
         <p><strong>Schedule of Young Entrepreneur Program (YEP) 2024:</strong></p>
