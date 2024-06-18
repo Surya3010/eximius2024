@@ -1,4 +1,4 @@
-import kms from '../public/images/Kiran Mazumdar Shaw.png'
+import kms from '../public/images/Kiran_Mazumdar_Shaw.png'
 import aw from "../public/images/past_speakers/ankur_warikoo.png";
 import aj from "../public/images/past_speakers/aniketh_jain.png";
 import am from "../public/images/past_speakers/arjun_manjumdar.png";
