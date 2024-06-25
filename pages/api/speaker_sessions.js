@@ -6,13 +6,19 @@ const speakerSessions = [
      
     },
     {
-        id: 0,
+        id: 1,
         image: "images/speaker_sessions/Speaker_Kris GopalaKrishnan.png",
         title: "Kris GopalaKrishnan",
      
     },
     {
-        id: 0,
+        id: 2,
+        image: "images/speaker_sessions/Speaker_Prajakta_Koli.png",
+        title: "Prajakta Koli",
+     
+    },
+    {
+        id: 3,
         image: "images/speaker_sessions/Speaker_Ashok Kamath.png",
         title: "Ashok Kamath & Shukla Bose",
      
