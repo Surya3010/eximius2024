@@ -18,7 +18,7 @@ const Yep = () => {
             <p><strong>Preliminary Round:</strong></p>
             <ul>
               <li className="yep_listItem"> <VscDebugBreakpointDataUnverified size='24px' /><strong>Start Date:</strong> April 20th, 2024</li>
-              <li className="yep_listItem"> <VscDebugBreakpointDataUnverified size='24px' /><strong>End Date:</strong> June 20th, 2024</li>
+              <li className="yep_listItem"> <VscDebugBreakpointDataUnverified size='24px' /><strong>End Date:</strong> June 30th, 2024</li>
             </ul>
           </div>
           <div style={{ outline: '1px solid white', padding: '16px', borderRadius: '16px', margin: '24px' }}>
@@ -58,9 +58,9 @@ const Yep = () => {
         <p><strong>Registration and Fee Options:</strong></p>
         <p>Choose from the following passes to register for the Young Entrepreneur Program (YEP) 2024:</p>
         <ol>
-          <li className="yep_listItem"><span><VscDebugBreakpointDataUnverified size='24px' /></span><span><strong>Bronze Pass:</strong> Price: ₹1599/- [Includes: 3-Day YEP pass, Free entry to Proshows, access to all speaker sessions]</span></li>
-          <li className="yep_listItem"><span><VscDebugBreakpointDataUnverified size='24px' /></span><span><strong>Silver Pass:</strong> Price: ₹1799/- [Includes: 3-Day YEP pass, Free entry to Proshows, access to all speaker sessions, exclusive Eximius-IIMB Merchandise]</span></li>
-          <li className="yep_listItem"><span><VscDebugBreakpointDataUnverified size='24px' /></span><span><strong>Diamond Pass:</strong> Price: ₹1999/- [Includes: 3-Day YEP pass, Free entry to Proshows, access to all speaker sessions, exclusive Eximius-IIMB Merchandise, access to Workshop sessions]</span></li>
+          <li className="yep_listItem"><span><VscDebugBreakpointDataUnverified size='24px' /></span><span><strong>Bronze Pass:</strong> Price: ₹1599/- [Includes: 2-Day YEP pass, Free entry to Proshows, access to all speaker sessions]</span></li>
+          <li className="yep_listItem"><span><VscDebugBreakpointDataUnverified size='24px' /></span><span><strong>Silver Pass:</strong> Price: ₹1799/- [Includes: 2-Day YEP pass, Free entry to Proshows, access to all speaker sessions, exclusive Eximius-IIMB Merchandise]</span></li>
+          <li className="yep_listItem"><span><VscDebugBreakpointDataUnverified size='24px' /></span><span><strong>Diamond Pass:</strong> Price: ₹1999/- [Includes: 2-Day YEP pass, Free entry to Proshows, access to all speaker sessions, exclusive Eximius-IIMB Merchandise, access to Workshop sessions worth ₹1000]</span></li>
         </ol>
         <p>Use the Coupon "<strong>EARLYBIRD100</strong>" to get flat <strong>₹100 off</strong> the registration fee. Valid only up to <strong>April 30, 2024.</strong></p>
         <p>Participants choosing any of the above passes can also opt for <strong>additional Accommodation &amp; Food</strong> at a charge of <strong>₹1000/-</strong>. This charge is applicable for accommodation and food for 6th-7th July 2024 at the IIM Bangalore campus.</p>
