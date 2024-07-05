@@ -23,6 +23,24 @@ const speakerSessions = [
         title: "Ashok Kamath & Shukla Bose",
      
     },
+    {
+        id: 4,
+        image: "images/speaker_sessions/Speaker_Niranjan_Deshmaan.png",
+        title: "Niranjan Deshmaan",
+     
+    },
+    {
+        id: 5,
+        image: "images/speaker_sessions/Speaker_Hemant_soreng.png",
+        title: "Hemant Soreng",
+     
+    },
+    {
+        id: 6,
+        image: "images/speaker_sessions/Speaker_Yamini_Bhat.png",
+        title: "Yamini Bhat",
+     
+    },
 
 ]
 export default function handler(req, res) {
