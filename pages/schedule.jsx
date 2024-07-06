@@ -17,7 +17,7 @@ const Sponsors = () => {
       <img src="/images/Eximius24 Schedule/10.png" style={{ borderRadius: '16px', margin: '32px 0px' }} />
       <img src="/images/Eximius24 Schedule/11.png" style={{ borderRadius: '16px', margin: '32px 0px' }} />
       <img src="/images/Eximius24 Schedule/12.png" style={{ borderRadius: '16px', margin: '32px 0px' }} />
-      <img src="/images/Eximius24 Schedule/13.png" style={{ borderRadius: '16px', margin: '32px 0px' }} />
+      <img src="/images/Eximius24 Schedule/Workshop_schedule.png" style={{ borderRadius: '16px', margin: '32px 0px' }} />
       <img src="/images/Eximius24 Schedule/14.png" style={{ borderRadius: '16px', margin: '32px 0px' }} />
       <img src="/images/Eximius24 Schedule/15.png" style={{ borderRadius: '16px', margin: '32px 0px' }} />
       <img src="/images/Eximius24 Schedule/16.png" style={{ borderRadius: '16px', margin: '32px 0px' }} />
